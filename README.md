@@ -1,10 +1,11 @@
 # Devon Call
-email: callbrentdevon@gmail.com
-
-+ [Skills][#skills]
-+ [Experience][#experience]
-+ [Education][#education]
-+ [References][#references]
+- email: callbrentdevon@gmail.com
+- linkedin: https://www.linkedin.com/in/devon-call-001621109/
+---
++ [Skills](#skills)
++ [Experience](#experience)
++ [Education](#education)
++ [References](#references)
 
 ## Skills
 I have experience in a wide range of technologies including: Golang, Python,
