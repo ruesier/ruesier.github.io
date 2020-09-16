@@ -1,12 +1,8 @@
 # Devon Call
-<d1>
-<ul>
-  <li>email: callbrentdevon@gmail.com</li>
-  <li>linkedin: https://www.linkedin.com/in/devon-call-001621109/</li>
-</ul>
-</d1>
+- email: callbrentdevon@gmail.com
+- linkedin: https://www.linkedin.com/in/devon-call-001621109/
 
----
+### Contents
 
 + [Skills](#skills)
 + [Experience](#experience)
