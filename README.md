@@ -4,10 +4,23 @@
 
 ### Contents
 
++ [Cover Letter](#cover-letter)
 + [Skills](#skills)
 + [Experience](#experience)
 + [Education](#education)
 + [References](#references)
+
+## Cover Letter
+To whom it may concern,
+
+I hope you are doing well. Many Companies are taking on many interesting challenges, including artificial intelligence and Cloud Computing. I believe that I will be great addition to your team with my skills in software development and team coordination.
+
+I gained experience in my skills while working for a startup I helped found, named Maxset Worldwide Inc. I developed a system for organizing raw text using a natural language processing scheme. I was then able to build a a web stack to use this system to organize and search files based on dynamically generated data tags.
+
+While working for Maxset Worldwide Inc, I have had a wide range of experiences. I installed servers into a datacenter. I lead 2 other developers in the release of new features. I met with customers to develop system requirements.
+
+I hope I can have even more experiences with you,
+Devon Call
 
 ## Skills
 I have experience in a wide range of technologies including: Golang, Python,
